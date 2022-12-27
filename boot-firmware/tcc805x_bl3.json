@@ -1,0 +1,4 @@
+{
+    "..\\ca72_bl3.rom" : [{"storage" : "emmc", "area" : "boot0", "addr" : "0x00001650"}, {"storage" : "emmc", "area" : "boot1", "addr" : "0x00001650"}],
+    "..\\ca53_bl3.rom" : [{"storage" : "emmc", "area" : "boot0", "addr" : "0x00002658"}, {"storage" : "emmc", "area" : "boot1", "addr" : "0x00002658"}]
+}

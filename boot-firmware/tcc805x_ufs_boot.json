@@ -1,0 +1,12 @@
+{
+    ".\\prebuilt\\bconf.bin" : [{"storage" : "ufs", "area" : "boot0", "addr" : "0x00000000"}, {"storage" : "ufs", "area" : "boot1", "addr" : "0x00000000"}],
+    ".\\prebuilt\\mcert.bin" : [{"storage" : "ufs", "area" : "boot0", "addr" : "0x00000001"}, {"storage" : "ufs", "area" : "boot1", "addr" : "0x00000001"}],
+    ".\\prebuilt\\dram_params.bin" : [{"storage" : "ufs", "area" : "boot0", "addr" : "0x00000002"}, {"storage" : "ufs", "area" : "boot1", "addr" : "0x00000002"}],
+    ".\\prebuilt\\hsm.cs.bin" : [{"storage" : "ufs", "area" : "boot0", "addr" : "0x00000008"}, {"storage" : "ufs", "area" : "boot1", "addr" : "0x00000008"}],
+    ".\\prebuilt\\scfw.rom" : [{"storage" : "ufs", "area" : "boot0", "addr" : "0x00000448"}, {"storage" : "ufs", "area" : "boot1", "addr" : "0x00000448"}],
+    ".\\prebuilt\\optee.rom" : [{"storage" : "ufs", "area" : "boot0", "addr" : "0x00000E48"}, {"storage" : "ufs", "area" : "boot1", "addr" : "0x00000E48"}],
+    ".\\prebuilt\\ufs\\ca72_bl1.rom" : [{"storage" : "ufs", "area" : "boot0", "addr" : "0x00000648"}, {"storage" : "ufs", "area" : "boot1", "addr" : "0x00000648"}],
+    ".\\prebuilt\\ufs\\ca53_bl1.rom" : [{"storage" : "ufs", "area" : "boot0", "addr" : "0x00000848"}, {"storage" : "ufs", "area" : "boot1", "addr" : "0x00000848"}],
+    ".\\prebuilt\\ufs\\ca72_bl2.rom" : [{"storage" : "ufs", "area" : "boot0", "addr" : "0x00000A48"}, {"storage" : "ufs", "area" : "boot1", "addr" : "0x00000A48"}],
+    ".\\prebuilt\\ufs\\ca53_bl2.rom" : [{"storage" : "ufs", "area" : "boot0", "addr" : "0x00000C48"}, {"storage" : "ufs", "area" : "boot1", "addr" : "0x00000C48"}]
+}
