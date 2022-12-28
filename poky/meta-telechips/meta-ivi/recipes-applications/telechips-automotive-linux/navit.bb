@@ -26,7 +26,6 @@ SRC_URI += " \
 	file://0016-Fix-can-t-process-key-event-that-sometimes.patch \
 	file://0017-Remove-KEY_RETURN-action-for-cluster-BVM.patch \
 	file://0018-Remove-no-need-options-for-fix-error-logs.patch \
-#	file://osm_bbox_126.8,37.5,127.1,37.6.bin \
 "
 SRCREV = "fc1d77ee989efd0fad7259b4105e893a6075fedd"
 
